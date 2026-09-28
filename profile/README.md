@@ -14,7 +14,7 @@ We are a team of 5 collaborative members working on this project:
 
 ### 🚀 Core Project
 
-- **[Agentic-AI-for-smart-facility](https://github.com/teambspringboard/Agentic-AI-for-smart-facility)** - The main repository containing our multi-agent architecture, backend APIs, analytics dashboard, and system benchmarks.
+- **[Agentic-AI-for-smart-facility][(https://github.com/teambspringboard/Agentic-AI-for-smart-facility)](https://github.com/teambspringboard/Agentic-AI-for-smart-facilityOPs)** - The main repository containing our multi-agent architecture, backend APIs, analytics dashboard, and system benchmarks.
 
 ---
 *Created for our team project under the guidance of our project mentor.*
